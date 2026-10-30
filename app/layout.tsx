@@ -10,6 +10,17 @@ export const metadata: Metadata = {
   title: 'Renewal Radar — Understand your mortgage renewal before you sign',
   description:
     'A free web tool for Canadian homeowners whose fixed-rate mortgage is coming up for renewal. Read your renewal letter, compare offers, check the stress test, and estimate penalties.',
+  openGraph: {
+    title: 'Renewal Radar | Understand your mortgage renewal before you sign',
+    description:
+      'A free web tool for Canadian homeowners: read your renewal letter, compare offers, and see what switching or breaking could cost.',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Renewal Radar | Understand your mortgage renewal before you sign',
+    description:
+      'A free web tool for Canadian homeowners: read your renewal letter, compare offers, and see what switching or breaking could cost.',
+  },
   generator: 'v0.app',
   icons: {
     icon: [

@@ -20,7 +20,7 @@ const features: Feature[] = [
   {
     title: 'Stress Test Check',
     description:
-      'Shows whether switching lenders might mean passing the mortgage stress test again.',
+      'Since November 2024, a straight switch to a new lender at renewal no longer needs the stress test for most uninsured mortgages. Shows when your situation still might.',
     icon: ShieldCheck,
   },
   {
